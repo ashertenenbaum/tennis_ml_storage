@@ -9,6 +9,8 @@
 **After Analysis, Comparison with Sinner:**
 [Watch Video](https://www.dropbox.com/scl/fi/dqgos8ain3xir5cuwenq6/p0-after-vs-sinner.mp4?rlkey=074ya652h919rozgmd5lkvdx5&st=4pxwel1t&dl=0)
 
+---
+
 ### Before Analysis Videos
 
 **Behind:**
@@ -16,6 +18,8 @@
 
 **Side:**
 [Watch Video](https://www.dropbox.com/scl/fi/gefxovbn02uwc1q3pq3jo/before_side.avi?rlkey=4vncuncw3f3n25mdg1wd1u2rw&st=q3bfaole&dl=0)
+
+---
 
 ### After Analysis Videos
 
