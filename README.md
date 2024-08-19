@@ -1,23 +1,15 @@
 # Serve Analysis Comparison
 
-## Height Off Ground
 
-**Before:**
-![Height Off Ground Before](https://live.staticflickr.com/65535/53928920807_fa254f2216_m.jpg)
-
-**After:**
-![Height Off Ground After](https://live.staticflickr.com/65535/53929825596_f8b0c06b0d_m.jpg)
-
----
 
 ## Serve Analysis
 
 ### Comparison with Sinner
 
-**Before Analysis:**
+**Before Analysis, Comparison with Sinner:**
 [Watch Video](https://live.staticflickr.com/video/53930167584/3284d0659e/1080p.mp4?s=eyJpIjo1MzkzMDE2NzU4NCwiZSI6MTcyMzk1MjIwOCwicyI6IjhlMGI4OTE5YjZiZTg1OTEwODUyYmY2ZjYyM2YwMDM2OThlZjVkNTEiLCJ2IjoxfQ)
 
-**After Analysis:**
+**After Analysis, Comparison with Sinner:**
 [Watch Video](https://live.staticflickr.com/video/53930167554/1c0314689a/1080p.mp4?s=eyJpIjo1MzkzMDE2NzU1NCwiZSI6MTcyMzk1MjIwOCwicyI6IjMxZTA5NjA2NzE3MGI4NmM3ZTg4Njk1ZWRkZDcwY2Y0ZDBhMDE1NGIiLCJ2IjoxfQ)
 
 ### Serve From Behind
@@ -45,6 +37,16 @@
 
 **From Side:**
 [Watch Video](https://live.staticflickr.com/video/53930275180/335a659a93/1080p.mp4?s=eyJpIjo1MzkzMDI3NTE4MCwiZSI6MTcyMzk1MjIwMCwicyI6ImUyMDA5M2I2NjNiMmFmY2ZlODRjY2U2M2QxM2ViMzQxMWFjOTBmMjAiLCJ2IjoxfQ)
+
+---
+
+## Height Off Ground
+
+**Before:**
+![Height Off Ground Before](https://live.staticflickr.com/65535/53928920807_fa254f2216_m.jpg)
+
+**After:**
+![Height Off Ground After](https://live.staticflickr.com/65535/53929825596_f8b0c06b0d_m.jpg)
 
 ---
 
