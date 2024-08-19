@@ -49,10 +49,10 @@
 ## Height Off Ground
 
 **Before:**
-![Height Off Ground Before](https://www.dropbox.com/scl/fi/i8mx07eg8xzmoum8uua62/height_off_ground_before.png?rlkey=shkqy5bfikoywrrii1tqo18gb&st=2y3jngoi&dl=0)
+[Height Off Ground Before](https://www.dropbox.com/scl/fi/i8mx07eg8xzmoum8uua62/height_off_ground_before.png?rlkey=shkqy5bfikoywrrii1tqo18gb&st=2y3jngoi&dl=0)
 
 **After:**
-![Height Off Ground After](https://www.dropbox.com/scl/fi/2spx0fx0jtp7hw2na4n2h/height_off_ground_after.png?rlkey=d44h8422prdo3xtjdxqg5iub3&st=z7lnkt6b&dl=0)
+[Height Off Ground After](https://www.dropbox.com/scl/fi/2spx0fx0jtp7hw2na4n2h/height_off_ground_after.png?rlkey=d44h8422prdo3xtjdxqg5iub3&st=z7lnkt6b&dl=0)
 
 
 
